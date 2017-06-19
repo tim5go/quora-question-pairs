@@ -2,5 +2,5 @@
 
 ## Architecture
 
-![Alt text](img/LSTM.jpg?raw=true "LSTM")
+![Alt text](https://raw.githubusercontent.com/tim5go/quora-question-pairs/master/img/LSTM.png)
 
